@@ -6,8 +6,9 @@ public class User {
         int a = 2;
         int b = 3 ;
         int sum = a + b;
+        int jian = b - a;
         System.out.println("sum = " + sum);
+        System.out.println("jian = " + jian );
     }
-
 
 }
